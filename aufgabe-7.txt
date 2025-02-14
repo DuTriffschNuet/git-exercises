@@ -1,0 +1,1 @@
+alle Datein die Commited wurden, sind mit git status --short nicht mehr zusehen
