@@ -1,1 +1,2 @@
-alle Datein die Commited wurden, sind mit git status --short nicht mehr zusehen
+2 / 3. alle Datein die Commited wurden, sind mit git status --short nicht mehr zusehen
+6. Keine Dateien mehr zu sehen
